@@ -1,0 +1,20 @@
+{
+  "name": "coingecko-app",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "keywords":[],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "^5.0.1",
+    "chalk-animation": "^2.0.2",
+    "express": "^4.18.1",
+    "inquirer": "^9.0.0"
+  }
+}
